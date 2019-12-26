@@ -1,8 +1,0 @@
-+ Math operations
-+ Functions
-- Global / local variables
-- Return values
-- Types
-- Data structures
-    - Array
-    - Pair
