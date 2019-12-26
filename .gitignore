@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Mikro
+*.mikro
+*.bin
+*.txt
+*.sh
