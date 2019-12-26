@@ -51,3 +51,9 @@ GLOAD 5
 FDIV
 FPRINT
 ```
+
+This bytecode compiles to the following MikroVM machine code:
+
+```
+11 0 11 11 4 22 0 11 2 11 11 9 22 1 11 4 11 6 5 11 -35 5 22 2 21 1 21 2 4 10 22 3 21 0 21 3 4 22 4 11 2 11 6 6 22 5 21 4 21 5 8 2 
+```
