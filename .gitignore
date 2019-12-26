@@ -36,3 +36,6 @@
 *.bin
 *.txt
 *.sh
+mikro.dSYM/
+mikroc.dSYM/
+.vscode/
