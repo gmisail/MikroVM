@@ -3,6 +3,10 @@
 Mikro is a basic virtual machine written in C++. It is a spirtual successor to a previous 
 pet project that I had, PocoVM. 
 
+## Programs
+
+The project includes two parts: the compiler and virtual machine.
+
 ## Bytecode
 
 Below is the bytecode for a program that calculates the quadratic roots for the equation 6x^2 + 11x - 35.
