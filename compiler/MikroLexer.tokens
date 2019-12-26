@@ -1,0 +1,7 @@
+VAR=1
+EQUALS=2
+NAME=3
+NUMBER=4
+WHITESPACE=5
+'var'=1
+'='=2
