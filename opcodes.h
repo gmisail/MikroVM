@@ -7,6 +7,7 @@ enum Opcodes
 
     PRINT,
     FPRINT,
+    SPRINT,
 
     ADD,
     SUB,

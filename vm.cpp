@@ -57,6 +57,21 @@ void Mikro::eval()
             break;
         }
 
+        case SPRINT:
+        {
+            int len = pop();
+            
+            /*
+                Keep popping values until you reach the null terminator. For now, print 'len' number of characters
+            */
+            for(int i = 0; i < len; i++)
+            {
+                std::cout << (char) pop();
+            }
+
+            break;
+        }
+
         case ADD:
         {
             int left = pop();

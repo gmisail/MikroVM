@@ -14,6 +14,7 @@ double Compiler::getOpcode(const std::string& opcode)
     else if(opcode == "FDIV") return FDIV;
     else if(opcode == "POW") return POW;
     else if(opcode == "PRINT") return PRINT;
+    else if(opcode == "SPRINT") return SPRINT;
     else if(opcode == "FPRINT") return FPRINT;
     else if(opcode == "SQRT") return SQRT;
     else if(opcode == "PUSH") return PUSH;
